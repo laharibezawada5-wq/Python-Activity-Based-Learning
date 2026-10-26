@@ -3,7 +3,9 @@ Student Details
 
 
 Name:B.Lakshmi Lahari
+
 Roll Number: 26000077
+
 Branch: CSE
 Section: 2
 
