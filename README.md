@@ -1,5 +1,7 @@
 # Python-Activity-Based-Learning
 Student Details
+
+
 Name:B.Lakshmi Lahari
 Roll Number: 26000077
 Branch: CSE
@@ -25,6 +27,7 @@ Warehouse Inventory Reconciliation
 Advanced Numeric Pattern Generator
 
 Technologies Used
+
 Python
 Visual Studio Code
 GitHub
