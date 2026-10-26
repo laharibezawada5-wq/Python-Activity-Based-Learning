@@ -4,7 +4,9 @@ Name:B.Lakshmi Lahari
 Roll Number: 26000077
 Branch: CSE
 Section: 2
+
 About the Project
+
 This repository contains Python Activity-Based Learning case studies developed as part of the B.Tech Computer Science and Engineering curriculum. Each case study includes a problem statement, objectives, assumptions, algorithm, flowchart, pseudocode, Python source code, test cases, output, and conclusion.
 
 The programs use basic Python concepts such as variables, input/output statements, arithmetic operators, and conditional statements.
