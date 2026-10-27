@@ -1,5 +1,6 @@
 # Python-Activity-Based-Learning
-🔗Student Details
+
+Student Details
 
 
 Name:B.Lakshmi Lahari
@@ -7,6 +8,7 @@ Name:B.Lakshmi Lahari
 Roll Number: 26000077
 
 Branch: CSE
+
 Section: 2
 
 About the Project
@@ -31,7 +33,9 @@ Advanced Numeric Pattern Generator
 Technologies Used
 
 Python
+
 Visual Studio Code
+
 GitHub
 
 Learning Outcomes
