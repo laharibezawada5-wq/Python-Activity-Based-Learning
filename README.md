@@ -47,5 +47,6 @@ Develop logical thinking and problem-solving skills.
 Test Python programs using different inputs.
 
 Conclusion
+
 This project demonstrates the application of basic Python programming concepts to solve real-world problems through ten activity-based learning case studies.
 
